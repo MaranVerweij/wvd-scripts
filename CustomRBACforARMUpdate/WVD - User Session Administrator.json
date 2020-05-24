@@ -27,6 +27,7 @@
                     "Microsoft.DesktopVirtualization/applicationgroups/providers/Microsoft.Insights/diagnosticSettings/read",
                     "Microsoft.DesktopVirtualization/hostpools/sessionhosts/write",
                     "Microsoft.DesktopVirtualization/hostpools/sessionhosts/usersessions/write",
+                    >Missing> "Microsoft.DesktopVirtualization/hostPools/sessionHosts/userSessions/sendMessage/action"
                     "Microsoft.DesktopVirtualization/hostpools/sessionhosts/usersessions/delete"
                 ],
                 "notActions": [],
